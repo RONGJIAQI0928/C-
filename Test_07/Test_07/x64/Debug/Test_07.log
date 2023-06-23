@@ -1,0 +1,5 @@
+﻿  test01.c
+C:\Users\18703\Desktop\C_code\Test_07\Test_07\test01.c(365,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\18703\Desktop\C_code\Test_07\Test_07\test01.c(365,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\18703\Desktop\C_code\Test_07\Test_07\test01.c(361,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Test_07.vcxproj -> C:\Users\18703\Desktop\C_code\Test_07\x64\Debug\Test_07.exe

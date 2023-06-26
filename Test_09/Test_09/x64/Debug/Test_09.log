@@ -1,0 +1,10 @@
+﻿  test01.c
+C:\Users\18703\Desktop\C_code\Test_09\Test_09\test01.c(183,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+C:\Users\18703\Desktop\C_code\Test_09\Test_09\test01.c(183,9): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\18703\Desktop\C_code\Test_09\Test_09\test01.c(183,9): message : 请考虑在格式字符串中使用“%Id”
+C:\Users\18703\Desktop\C_code\Test_09\Test_09\test01.c(183,9): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\18703\Desktop\C_code\Test_09\Test_09\test01.c(184,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+C:\Users\18703\Desktop\C_code\Test_09\Test_09\test01.c(184,9): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\18703\Desktop\C_code\Test_09\Test_09\test01.c(184,9): message : 请考虑在格式字符串中使用“%Id”
+C:\Users\18703\Desktop\C_code\Test_09\Test_09\test01.c(184,9): message : 请考虑在格式字符串中使用“%I64d”
+  Test_09.vcxproj -> C:\Users\18703\Desktop\C_code\Test_09\x64\Debug\Test_09.exe

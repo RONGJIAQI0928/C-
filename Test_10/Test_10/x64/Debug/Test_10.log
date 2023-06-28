@@ -1,0 +1,6 @@
+﻿  test01.c
+C:\Users\18703\Desktop\C_code\Test_10\Test_10\test01.c(277,15): error C2065: “a”: 未声明的标识符
+C:\Users\18703\Desktop\C_code\Test_10\Test_10\test01.c(277,22): error C2065: “b”: 未声明的标识符
+C:\Users\18703\Desktop\C_code\Test_10\Test_10\test01.c(277,29): error C2065: “v”: 未声明的标识符
+C:\Users\18703\Desktop\C_code\Test_10\Test_10\test01.c(277,36): error C2065: “d”: 未声明的标识符
+C:\Users\18703\Desktop\C_code\Test_10\Test_10\test01.c(278,2): error C2143: 语法错误: 缺少“;”(在“return”的前面)
